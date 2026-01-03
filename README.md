@@ -1,2 +1,3 @@
 # Hello-World
-Hello WQorld repository for Git tutorial
+Hello World repository for Git tutorial
+Oooh yeah
